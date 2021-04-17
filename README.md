@@ -4,7 +4,7 @@
 17/04/2021
 
 ### Project Title
-Bikeshare code
+Bikeshare data Python code
 
 ### Description
 This project uses Python to understand US bikeshare data. Calculate statistics and build an interactive environment where a user choose the data and filter for a dataset to analyze.
