@@ -41,10 +41,10 @@ def get_filters():
             validcity=False
             city = CITY_DATA[city.lower()]
         else:
-            print('That is not included in this exercise \nPlease select from chicago, new york city and washington.')
+            print('OOps, what you entered is not included in this exercise \nPlease select from chicago, new york city and washington.')
 
     # TO DO: get user input for month (all, january, february, ... , june)
-    print('Next please enter the month you interested.')
+    print('Next please tell me the month you are interested in.')
 
     validmonth=True
     while validmonth:
